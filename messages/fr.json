@@ -1,0 +1,277 @@
+{
+  "site": {
+    "title": "Ayoub Fergal — Vêtements Homme",
+    "description": "Vêtements homme premium au Maroc. Streetwear, hoodies, sweatpants, t-shirts et accessoires."
+  },
+  "nav": {
+    "home": "Accueil",
+    "shop": "Boutique",
+    "collections": "Collections",
+    "about": "À propos",
+    "contact": "Contact",
+    "account": "Compte",
+    "cart": "Panier",
+    "search": "Rechercher",
+    "orders": "Mes commandes",
+    "tracking": "Suivi de commande"
+  },
+  "topbar": {
+    "text": "LIVRAISON OFFERTE DÈS 500 DH"
+  },
+  "hero": {
+    "title": "STYLE SANS COMPROMIS",
+    "cta": "DÉCOUVRIR"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "french": "Français",
+    "arabic": "Arabe",
+    "status": "Statut"
+  },
+  "featured": {
+    "title": "NOUVEAUTÉS",
+    "viewAll": "TOUT VOIR"
+  },
+  "marquee": {
+    "text1": "FAIT POUR DURER · QUALITÉ PREMIUM · LIVRAISON RAPIDE ·",
+    "text2": "STREETWEAR MAROCAIN · ÉLÉGANCE URBAINE · ÉDITION LIMITÉE ·"
+  },
+  "categories": {
+    "title": "CATÉGORIES"
+  },
+  "newsletter": {
+    "title": "RESTEZ INFORMÉ",
+    "subtitle": "Soyez le premier à découvrir nos nouvelles collections et offres exclusives.",
+    "placeholder": "Votre adresse email",
+    "button": "S'INSCRIRE"
+  },
+  "footer": {
+    "newsletter": "Newsletter",
+    "followUs": "SUIVEZ-NOUS",
+    "quickLinks": "Liens rapides",
+    "about": "À propos",
+    "contact": "Contact",
+    "livraison": "Livraison & Retours",
+    "cgv": "CGV",
+    "faq": "FAQ",
+    "tracking": "Suivi de commande",
+    "copyright": "© 2024 Ayoub Fergal. Tous droits réservés."
+  },
+  "product": {
+    "addToCart": "AJOUTER AU PANIER",
+    "addedToCart": "AJOUTÉ AU PANIER",
+    "outOfStock": "RUPTURE DE STOCK",
+    "lowStock": "Stock faible",
+    "inStock": "En stock",
+    "size": "Taille",
+    "color": "Couleur",
+    "quantity": "Quantité",
+    "description": "Description",
+    "shipping": "Livraison & Retours",
+    "composition": "Composition",
+    "related": "VOUS AIMEREZ AUSSI",
+    "sizeGuide": "Guide des tailles",
+    "soldBy": "Vendu par",
+    "shippingInfo": "Livraison sous 2-7 jours ouvrés dans tout le Maroc. Retours acceptés sous 14 jours.",
+    "compositionInfo": "Composition détaillée disponible sur l'étiquette du produit.",
+    "addToWishlist": "Ajouter aux favoris",
+    "wishlisted": "Dans vos favoris",
+    "reviews": "Avis clients",
+    "reviewCount": "{{count}} avis",
+    "averageRating": "Note moyenne : {{rating}}/5",
+    "writeReview": "Donner votre avis",
+    "reviewTitle": "Titre (optionnel)",
+    "reviewComment": "Votre commentaire",
+    "reviewRating": "Note",
+    "submitReview": "ENVOYER",
+    "reviewThanks": "Merci ! Votre avis a été soumis et sera publié après modération.",
+    "noReviews": "Soyez le premier à donner votre avis",
+    "loginToReview": "Connectez-vous pour donner votre avis"
+  },
+  "shop": {
+    "filters": "Filtres",
+    "category": "Catégorie",
+    "priceRange": "Prix",
+    "min": "Min",
+    "max": "Max",
+    "resetFilters": "Réinitialiser les filtres",
+    "products": "produits",
+    "newest": "Nouveautés",
+    "priceAsc": "Prix ↑",
+    "priceDesc": "Prix ↓",
+    "noResults": "Aucun produit trouvé",
+    "noImage": "Image",
+    "soldOut": "RUPTURE DE STOCK"
+  },
+  "cart": {
+    "title": "Panier",
+    "empty": "Votre panier est vide",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "total": "Total",
+    "checkout": "COMMANDER",
+    "continue": "Continuer mes achats",
+    "remove": "Supprimer",
+    "promoCode": "Code promo",
+    "apply": "Appliquer",
+    "discount": "Réduction",
+    "summary": "Récapitulatif",
+    "items": "Articles",
+    "free": "GRATUITE",
+    "freeFrom": "Plus que {{amount}} pour la livraison gratuite"
+  },
+  "checkout": {
+    "title": "Validation de commande",
+    "step1": "Informations",
+    "step2": "Livraison",
+    "step3": "Paiement",
+    "step4": "Confirmation",
+    "customerInfo": "Vos informations",
+    "name": "Nom complet",
+    "phone": "Téléphone",
+    "email": "Email (optionnel)",
+    "address": "Adresse de livraison",
+    "city": "Ville",
+    "region": "Région",
+    "delivery": "Mode de livraison",
+    "standard": "Livraison standard",
+    "payment": "Moyen de paiement",
+    "cod": "Paiement à la livraison (COD)",
+    "online": "Payer en ligne (Carte bancaire)",
+    "placeOrder": "CONFIRMER LA COMMANDE",
+    "confirmed": "Commande confirmée !",
+    "orderNumber": "Numéro de commande",
+    "totalPaid": "Total payé",
+    "confirmationEmail": "Un email/SMS de confirmation vous sera envoyé.",
+    "selectCity": "Sélectionnez une ville",
+    "codInfo": "Payez en espèces à la réception de votre commande.",
+    "onlineInfo": "Payez par carte bancaire en ligne (CB/CMI).",
+    "processingPayment": "Traitement du paiement en cours...",
+    "redirecting": "Redirection vers la page de paiement...",
+    "paymentSuccess": "Paiement réussi !",
+    "paymentFailed": "Paiement échoué",
+    "paymentFailedInfo": "Votre paiement n'a pas abouti. Veuillez réessayer ou choisir un autre moyen de paiement.",
+    "retryPayment": "RÉESSAYER",
+    "viewOrder": "VOIR MA COMMANDE"
+  },
+  "order": {
+    "title": "Suivi de commande",
+    "orderNumber": "Numéro de commande",
+    "phone": "Téléphone",
+    "track": "SUIVRE",
+    "pending": "En attente",
+    "confirmed": "Confirmée",
+    "shipped": "Expédiée",
+    "delivered": "Livrée",
+    "cancelled": "Annulée",
+    "returned": "Retournée",
+    "status": "Statut",
+    "subtitle": "Saisissez votre numéro de commande et votre téléphone pour suivre votre commande.",
+    "notFound": "Commande introuvable"
+  },
+  "account": {
+    "login": "Connexion",
+    "register": "Inscription",
+    "email": "Email",
+    "password": "Mot de passe",
+    "loginBtn": "SE CONNECTER",
+    "registerBtn": "S'INSCRIRE",
+    "noAccount": "Pas encore de compte ?",
+    "hasAccount": "Déjà un compte ?",
+    "logout": "Déconnexion",
+    "myOrders": "Mes commandes",
+    "myAddresses": "Mes adresses",
+    "myWishlist": "Ma liste d'envies",
+    "ordersDesc": "Suivez et consultez vos commandes",
+    "wishlistDesc": "Vos articles favoris",
+    "addressesDesc": "Gérez vos adresses de livraison",
+    "forgotPassword": "Mot de passe oublié ?",
+    "sendReset": "ENVOYER LE LIEN",
+    "checkEmail": "Vérifiez votre email",
+    "resetSent": "Un lien de réinitialisation vous a été envoyé par email.",
+    "backToLogin": "Retour à la connexion",
+    "newPassword": "Nouveau mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "passwordMin": "Le mot de passe doit contenir au moins 6 caractères",
+    "passwordMismatch": "Les mots de passe ne correspondent pas",
+    "updatePassword": "METTRE À JOUR",
+    "confirmationSent": "Un email de confirmation vous a été envoyé. Vérifiez votre boîte de réception."
+  },
+  "error": {
+    "title": "Une erreur est survenue",
+    "message": "Quelque chose s'est mal passé.",
+    "retry": "Réessayer"
+  },
+  "search": {
+    "title": "Recherche",
+    "empty": "Entrez un terme de recherche",
+    "loading": "Recherche en cours...",
+    "results": "{{count}} résultat(s) pour"
+  },
+  "wishlist": {
+    "empty": "Votre liste d'envies est vide",
+    "browse": "Découvrir la boutique"
+  },
+  "admin": {
+    "dashboard": "Tableau de bord",
+    "products": "Produits",
+    "orders": "Commandes",
+    "suppliers": "Fournisseurs",
+    "customers": "Clients",
+    "promocodes": "Codes promo",
+    "content": "Contenu",
+    "categories": "Catégories",
+    "admins": "Administrateurs",
+    "totalOrders": "Commandes totales",
+    "totalRevenue": "Revenus",
+    "pendingCOD": "COD en attente",
+    "lowStock": "Stock faible",
+    "backToStore": "Retour à la boutique",
+    "add": "Ajouter",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "actions": "Actions",
+    "status": "Statut",
+    "created": "Créé le",
+    "updated": "Mis à jour le",
+    "noData": "Aucune donnée",
+    "search": "Rechercher",
+    "export": "Exporter",
+    "import": "Importer",
+    "prev": "← Précédent",
+    "next": "Suivant →"
+  },
+  "static": {
+    "about": {
+      "title": "À PROPOS",
+      "content": "Ayoub Fergal est une marque de vêtements homme basée au Maroc. Nous sélectionnons les meilleures pièces streetwear pour vous offrir style et qualité au meilleur prix."
+    },
+    "contact": {
+      "title": "CONTACT",
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "send": "ENVOYER"
+    },
+    "livraison": {
+      "title": "LIVRAISON & RETOURS",
+      "content": "Nous livrons dans toutes les grandes villes du Maroc. Les délais de livraison varient de 2 à 7 jours ouvrés selon votre région. Retours acceptés sous 14 jours."
+    },
+    "cgv": {
+      "title": "CONDITIONS GÉNÉRALES DE VENTE",
+      "content": "Les présentes conditions générales de vente régissent les relations contractuelles entre Ayoub Fergal et ses clients."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "Quels sont les délais de livraison ?",
+      "a1": "Les délais varient de 2 à 7 jours ouvrés selon votre ville.",
+      "q2": "Puis-je retourner un article ?",
+      "a2": "Oui, vous disposez de 14 jours pour retourner un article.",
+      "q3": "Comment suivre ma commande ?",
+      "a3": "Utilisez notre page de suivi avec votre numéro de commande et téléphone."
+    }
+  }
+}
