@@ -1,6 +1,8 @@
 import { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { prisma } from '@/lib/prisma';
+
+export const dynamic = 'force-dynamic';
 import { HeroBanner } from '@/components/home/HeroBanner';
 import { FeaturedProducts } from '@/components/home/FeaturedProducts';
 import { MarqueeStrip } from '@/components/home/MarqueeStrip';
